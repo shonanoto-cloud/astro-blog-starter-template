@@ -7,11 +7,9 @@ heroImage: "/blog-placeholder-3.jpg"
 
 皆様はじめまして、しょーなん🎤です。この度、個人ウェブサイト開設させていただきました。運用方法は確定していませんが、様々な駅放送を公開しつつ、駅放送だけでなくほかの趣味や日常で思ったことについて語るブログとしても使っていこうかなと考えております。
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+私が個人ウェブサイトを開設する試みは、これが初めてではありません。中学生のころ、同じように駅放送公開サイトを作成しようと、fc2ホームページでウェブサイトの作成を行っていましたが、エディタの操作性が悪く、早々にあきらめてしまいました。それから3年経ち、大学入学を機にはWordpressでのウェブサイト作成を考え作成に取り掛かりましたが、こちらもWordpressの操作があまり馴染まず、編集がやりづらかったため志半ばで諦めてしまいました。
 
-個人ウェブサイトを開設する試みは、これが初めてではありません。中学生のころ、同じように駅放送公開サイトを作成しようと、fc2ホームページでウェブサイトの作成を行っていましたが、エディタの操作性が悪く、早々にあきらめてしまいました。それから3年経ち、今度はWordpressでのウェブサイト作成を考えましたが、htmlベタ打ちとは相性が悪かったため、こちらも志半ばで諦めてしまいました。
-
-そして、3度目の正直ということで、CloudfareとAstroを利用してこのウェブサイトを開設しました。この手法ならば、Html直打ちで自由にサイトの構築ができ、自分の望んでいたサイトを構築することができました。
+そして3度目の正直ということで、今回はCloudfareとGithubを連帯させてこのウェブサイトを開設しました。この手法ならば、ローカルのVScode上でストレスなくサイト編集を行い、ボタン一つで編集内容をウェブ上に反映させることができます。
 
 ![blog placeholder](/images/fukutoshin.jpg)
 
