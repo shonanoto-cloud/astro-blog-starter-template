@@ -14,6 +14,10 @@ const isActive = href === pathname || href === '/' + (subpath?.[0] || '');
 </a>
 <style>
 	a {
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
     margin: 0 auto;
     max-width: 200px;
     padding: 10px 25px;
@@ -22,15 +26,17 @@ const isActive = href === pathname || href === '/' + (subpath?.[0] || '');
     font-weight: 600;
 }
 a:before {
+    position: absolute;
     bottom: 0px;
     left: 50%;
     content: '';
     width: 100%;
     height: 2px;
-    background: rgba(0,0,0,0.1);
+    background: rgba(0,0,0,.1);
     transform: translateX(-50%);
 }
 a:after {
+    position: absolute;
     bottom: 0px;
     left: 0;
     content: '';
